@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeMaTakeout</string>
+
+    <!-- 隐私协议弹框 -->
+    <string name="smsdemo_authorize_dialog_title">服务授权</string>
+    <string name="smsdemo_authorize_dialog_content">欢迎您使用MobTech提供的演示DEMO，SMSSDK为开发者提供完全免费的短信验证码服务，顶级通道3秒下发，适用于登录注册、找回密码、支付认证等场景。我们将依据MobTech的《隐私政策》来帮助你了解我们需要收集哪些数据。请您详细查看我们的隐私政策，详见</string>
+    <string name="smsdemo_authorize_dialog_reject">拒绝</string>
+    <string name="smsdemo_authorize_dialog_accept">同意</string>
+</resources>
